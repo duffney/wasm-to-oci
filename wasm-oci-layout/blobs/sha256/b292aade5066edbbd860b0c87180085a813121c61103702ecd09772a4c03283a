@@ -1,0 +1,1 @@
+{"config":{"digest":"sha256:4533324bb7598bdf36c9de321b71819717cdd738e3c2d893cc40743fd550d945","mediaType":"application/vnd.wasm.config.v0+json","size":353},"layers":[{"digest":"sha256:5a568e6e2d60c1ce51220e1833cdd5b88db9f615720edc762a9b4a6f36b383bd","mediaType":"application/wasm","size":37882}],"mediaType":"application/vnd.oci.image.manifest.v1+json","schemaVersion":2}

@@ -1,0 +1,1 @@
+{"created":"2024-06-17T18:54:54.727423Z","author":null,"architecture":"wasm","os":"wasip2","layerDigests":["sha256:5a568e6e2d60c1ce51220e1833cdd5b88db9f615720edc762a9b4a6f36b383bd"],"component":{"exports":["wasi:http/incoming-handler@0.2.0","wasi:http/types@0.2.0","wasi:http/proxy@0.2.0","wasi:http/outgoing-handler@0.2.0"],"imports":[],"target":null}}
